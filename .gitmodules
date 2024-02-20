@@ -1,0 +1,3 @@
+[submodule "clanok-mip"]
+	path = clanok-mip
+	url = https://github.com/TomasTisovsky/clanok-mip.git
